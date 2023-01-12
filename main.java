@@ -1,4 +1,4 @@
-public class Game31 {
+public class main {
     public static void main (String[] args) {
         new Round();
     }
